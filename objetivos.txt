@@ -1,1 +1,2 @@
 Objetivos del ciclo:
+Objetivo 1: Aprender control de versiones con Git y SourceTree
