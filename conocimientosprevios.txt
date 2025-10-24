@@ -1,0 +1,3 @@
+Conocimiento 1: HTML básico
+Conocimiento 2: Lógica de programación (variables, condicionales)
+Conocimiento 3: Introducción a JavaScript
