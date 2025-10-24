@@ -1,3 +1,4 @@
 Objetivos del ciclo:
 Objetivo 1: Aprender control de versiones con Git y SourceTree
 Objetivo 2: Versionar prácticas del curso en GitHub
+Objetivo 3: Colaborar usando ramas y pull requests
